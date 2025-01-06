@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561624867349",
+    "project_id": "voicecalltest-b2495",
+    "storage_bucket": "voicecalltest-b2495.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561624867349:android:fa2649f7502c7b9156641c",
+        "android_client_info": {
+          "package_name": "com.example.agoratestin1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdHfl-w1dtgy5Uc01HrFjJ06V4xwD6Ft4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
